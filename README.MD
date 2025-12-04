@@ -31,4 +31,4 @@ MyToken is a simple ERC-20 compatible token built on the Ethereum blockchain for
 ### Check Balance
 Call the `balanceOf` function with an address:
 ```solidity
-balanceOf("0x5B38Da6a701c568545dCfcB03FcB875f56beddC4")
+balanceOf(0x5B38Da6a701c568545dCfcB03FcB875f56beddC4)
